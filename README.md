@@ -15,10 +15,6 @@ https://github.com/josephjquinn/ekreb-Word-Scramble/assets/81782398/4d153b30-139
 ## Game Description:
 Word Scramble is a word puzzle game that challenges players to unscramble words of varying lengths and test their vocabulary skills. With a combination of quick thinking and word knowledge, players can earn high scores.
 
-## Rules:
-
-Objective: The primary goal of the game is to unscramble the presented word and type it correctly.
-
 ### Gameplay:
 
 Players start with an empty word display.
