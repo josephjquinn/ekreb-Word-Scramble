@@ -1,13 +1,12 @@
 # Word Scramble Game
 
 This Node.js backend server serves as the backend for a word unscrambling game. Players are challenged to unscramble words of varying lengths and earn high scores by solving them quickly and accurately.
-<img width="600" alt="wordle" src="assets/gui.png">
+<img width="800" alt="wordle" src="assets/gui.png">
 
 ## Demo
 -TODO add video
 ## Design Process
-<img width="600" alt="wordle" src="assets/design-1.png">
-<img width="600" alt="wordle" src="assets/design-2.png">
+<img width="450" alt="wordle" src="assets/design-1.png"> <img width="450" alt="wordle" src="assets/design-2.png">
 
 
 ## Game Description:
