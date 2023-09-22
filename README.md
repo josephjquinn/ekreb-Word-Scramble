@@ -73,7 +73,6 @@ Here are the main API endpoints provided by this server:
 - GET /get-solution: Return the correct solution (for display purposes).
 - GET /get-leaderboard: Retrieve the high score leaderboard.
 - POST /update-leaderboard: Update the leaderboard with new scores and usernames.
-- Word Scrambling
 
 ### Installation
 1. Clone this repository to your local machine:
