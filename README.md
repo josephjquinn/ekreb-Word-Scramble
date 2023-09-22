@@ -81,11 +81,11 @@ Here are the main API endpoints provided by this server:
 1. Clone this repository to your local machine:
 
    ```bash
-   git clone https://github.com/yourusername/word-scramble-game.git
+   git clone https://github.com/josephjquinn/ekreb-Word-Scramble.git
 2. Navigate to the project directory.
 
    ```bash
-   cd word-scramble-game
+   cd ekreb-Word-Scramble
 3. Navigate to api directory.
 
    ```bash
