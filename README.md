@@ -4,7 +4,7 @@ This Node.js backend server serves as the backend for a word unscrambling game. 
 <img width="800" alt="wordle" src="assets/gui.png">
 
 ## Demo
--TODO add video
+![Alt Text](https://github.com/josephjquinn/ekreb-Word-Scramble/blob/main/assets/demo.gif)
 ## Design Process
 <img width="450" alt="wordle" src="assets/design-1.png"> <img width="450" alt="wordle" src="assets/design-2.png">
 
