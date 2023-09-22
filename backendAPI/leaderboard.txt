@@ -1,0 +1,10 @@
+RyanGosling, 999
+JoeGoldberg, 44
+shinji, 87
+dglover, 23
+ekko2k, 19
+ldr, 14
+mitski, 12
+rei, 11
+jeff_buckley, 9
+alexG, 7
